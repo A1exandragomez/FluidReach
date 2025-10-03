@@ -9,9 +9,9 @@ A core feature is the Sustainability Tracker, which visualizes the environmental
 ✨ Key Features
 Sustainability Tracker: Visualize campaign performance over a 6-month period using interactive Bar Charts (powered by Swift Charts). Tracks metrics like the impactScore using the SustainabilityMetric data model.
 
-Education Library: Access a categorized library of essential video lessons (VideoLesson) on topics like CTA optimization, goal setting, and real-time data grounding.
+Education Library: Access a categorized library of essential video lessons (VideoLesson) on topics like how to utilize the app, engage your audience, and learn to use our chatbot.
 
-Profile Management: View and edit user details, including username and bio, and track personal metrics like "Generated Assets" and "Community Members" followed.
+Profile Management: View and edit user details, including username and bio.
 
 Chatbot / Human Support: A simulated chat interface for quick Q&A and immediate connection to "human" support associates.
 
