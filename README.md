@@ -2,7 +2,7 @@ Fluid Reach Marketing Support App
 
 Project Overview
 
-The AI Marketing Support App is a native iOS application built with SwiftUI designed to assist digital marketers and small business owners. It provides tools for goal tracking, educational resources, profile management, and features a simulation for human support, all integrated into a modern, easy-to-use mobile experience.
+The Marketing Support App is a native iOS application built with SwiftUI designed to assist digital marketers and small business owners. It provides tools for goal tracking, educational resources, profile management, and features a simulation for human support, all integrated into a modern, easy-to-use mobile experience.
 
 A core feature is the Sustainability Tracker, which visualizes the environmental impact score of campaigns over time using the native Swift Charts framework, encouraging responsible marketing practices.
 
@@ -45,7 +45,7 @@ Installation and Setup
 
 Clone the Repository:
 
-git clone [Your Repository URL Here]
+git clone [(https://github.com/A1exandragomez/FluidReach.git)]
 cd AI-Marketing-Support-App
 
 Open in Xcode:
